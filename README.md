@@ -28,7 +28,7 @@ Skeleton Code:[Berkeley-CS61B/skeleton-sp21](https://github.com/Berkeley-CS61B/s
 
 | LAB                                                                                                         |          CODE          |   DATE   |       STATUS       | AUTOGRADER SCORE  |
 | ----------------------------------------------------------------------------------------------------------- | :--------------------: | :------: | :----------------: | :---------------: |
-| [Lab 1: IntelliJ, Java, git](https://sp21.datastructur.es/materials/lab/lab1/lab1)                          | [:link: link](./lab1/) | 22/08/09 | :white_check_mark: | **_32.0 / 32.0_** |
+| [Lab 1: IntelliJ, Java, git](https://sp21.datastructur.es/materials/lab/lab1/lab1)                          | [:link: link](./lab1/) | 23/03/22 | :white_check_mark: | **_32.0 / 32.0_** |
 | [Lab 2: JUnit Tests and Debugging](https://sp21.datastructur.es/materials/lab/lab2/lab2)                    | 
 | [Lab 3: Timing Tests and Randomized Comparison Tests](https://sp21.datastructur.es/materials/lab/lab3/lab3) | 
 | [Lab 4: Git and Debugging](https://sp21.datastructur.es/materials/lab/lab4/lab4)                            | 
