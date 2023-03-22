@@ -19,8 +19,8 @@ Skeleton Code:[Berkeley-CS61B/skeleton-sp21](https://github.com/Berkeley-CS61B/s
 | PROJECT                                                                                          |                         DEMO                         |           CODE            |   DATE   |       STATUS       |  AUTOGRADER SCORE   |
 | ------------------------------------------------------------------------------------------------ | :--------------------------------------------------: | :-----------------------: | :------: | :----------------: | :-----------------: |
 | [Project 0: 2048](https://sp21.datastructur.es/materials/proj/proj0/proj0)                       | [video](https://www.youtube.com/watch?v=6Jsv1mstx2I) | |  |  |  |
-| [Project 1: Data Structures](https://sp21.datastructur.es/materials/proj/proj1/proj1)            |                                                      |  [:link: link](./proj1/)  | | | |
-| [Project 1 Extra Credit: Autograding](https://sp21.datastructur.es/materials/proj/proj1/proj1ec) |                                                      | [:link: link](./proj1ec/) | |  | |
+| [Project 1: Data Structures](https://sp21.datastructur.es/materials/proj/proj1/proj1)            |                                                      |    | | | |
+| [Project 1 Extra Credit: Autograding](https://sp21.datastructur.es/materials/proj/proj1/proj1ec) |                                                      |  | |  | |
 | [Project 2: Gitlet](https://sp21.datastructur.es/materials/proj/proj2/proj2)                     |                                                      |                           |          |                    |                     |
 | [Project 3: Game Sharing](https://sp21.datastructur.es/materials/proj/proj3/proj3)               |                                                      |                           |          |                    |                     |
 
