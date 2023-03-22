@@ -1,6 +1,6 @@
 # CS 61B Data Structures Spring 2021
 
-Start this course from 2023/03/2.
+Start this course from 2023/03/22.
 
 ## Getting Started
 
